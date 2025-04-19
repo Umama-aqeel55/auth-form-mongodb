@@ -25,8 +25,9 @@ A modern and responsive **Sign Up / Login** application built with the **MERN st
 ---
 
 ## 📁 Project Structure 
+```
  mern-auth-form/ ├── backend/ │ ├── models/ │ │ └── user.js │ ├── routes/ │ │ └── auth.js │ ├── .env │ ├── server.js │ └── package.json │ ├── frontend/ │ ├── public/ │ │ └── index.html │ ├── src/ │ │ ├── components/ │ │ │ ├── SignupForm.jsx │ │ │ ├── LoginForm.jsx │ │ │ ├── AuthForm.jsx │ │ │ └── Auth.css │ │ └── App.jsx │ └── package.json │ ├── .gitignore └── README.md 
-
+```
 ---
 
 ## 🚀 Getting Started
